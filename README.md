@@ -5,6 +5,12 @@ A Casa Criativa foi meu primeiro projeto criado 100% no código. Trata-se de um 
 um website que podessem ser cadastradas ideias de coisas para fazer durante o isolamento social devido à pandemia do
 Coronavírus em 2020.
 
+### Funcionalides
+
+- Cadastrar uma nova ideia
+
+- Ver ideias cadastradas
+
 ### Screenshots da aplicação
 
 #### Pagina inicial
